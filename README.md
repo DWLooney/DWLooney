@@ -1,4 +1,4 @@
-Hello, I'm Daniel. 👋
+Hello, I'm Daniel. I'm currently working as a Software Developer 👋
 
 ### I like coding and learning new things.  
 #### This profile is where I put my public projects I'm proud of.
