@@ -1,7 +1,6 @@
-Hello, I'm Daniel. I'm currently working as a Software Developer 👋
+### Hello, I'm Daniel. I'm currently working as a Software Developer 👋  
 
-### I like coding and learning new things.  
-#### This profile is where I put my public projects I'm proud of.
+#### I like coding and learning new things. This profile is where I put my public projects I'm proud of.
 
 * 🖥️ Check out the projects I have worked on here
 * 🌐 I’m currently learning Spring-Boot and back-end API development 📡
